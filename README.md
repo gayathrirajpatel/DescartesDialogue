@@ -33,9 +33,9 @@
 
 ## Related
 
- - [How to setup Jupyter Notebook virtual environment vscode kernel] - (https://devinschumacher.com/how-to-setup-jupyter-notebook-virtual-environment-vs-code-kernels/)
- - (https://learn.microsoft.com/en-us/javascript/api/overview/azure/ai-vision-image-analysis-rest-readme?view=azure-node-preview#examples)
- - (https://github.com/Azure-Samples/azure-search-openai-javascript)
+ - [How to setup Jupyter Notebook virtual environment vscode kernel] - https://devinschumacher.com/how-to-setup-jupyter-notebook-virtual-environment-vs-code-kernels/
+ - https://learn.microsoft.com/en-us/javascript/api/overview/azure/ai-vision-image-analysis-rest-readme?view=azure-node-preview#examples
+ - https://github.com/Azure-Samples/azure-search-openai-javascript
 
 ## Steps involved
 
