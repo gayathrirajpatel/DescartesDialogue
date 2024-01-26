@@ -1,5 +1,23 @@
 # DescartesDialogue
 
+## Design
+
+> Introduction of team via sign to text and speech simultaneously.
+> Sign to text
+> Improve text to sign
+> Integrate everything seamlessly using Cloudflar's workers
+> Complete all of this by 31st jan
+
+
+## Progress so far
+
+> text to sign using stable diffusion and few customised prompts and show images
+
+## Improvements 
+
+> Only image is shown , Make a proper dashboard to show the text to sign and sign to text translation .
+> This has to happen after clicking the help button in main website. 
+
 ## Creating virtual environment
 
 ```bash
