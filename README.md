@@ -21,6 +21,8 @@
 ## Creating virtual environment
 
 ```bash
+
+
     python3 -m venv venvSign
     source venvSign/bin/activate   # On Windows: .\venv\Scripts\activate
     pip install ipykernel
